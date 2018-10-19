@@ -1,6 +1,6 @@
 #ae_help_update
 最新版本号首{1.0.1}最新版本号尾
-蓝奏云网盘更新地址首{https://www.lanzous.com/i254v5c}蓝奏云网盘更新地址尾
+蓝奏云网盘更新地址首{https://www.lanzous.com/i25502j}蓝奏云网盘更新地址尾
 百度网盘更新地址首{https://pan.baidu.com/s/1zvJ0cXH86jNTbB6eVbjNlA}百度网盘更新地址尾
 本次更新内容首{修复中英互译窗口打开卡顿}本次更新内容尾
 
